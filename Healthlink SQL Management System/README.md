@@ -20,4 +20,4 @@ Welcome to the HealthLink SQL Management System, an open-source SQL project desi
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/GiorgosZiakas/HealthLink-SQL-Management-System.git
+   git clone https://github.com/GiorgosZiakas/HealthLink--SQL--Management--System.git
